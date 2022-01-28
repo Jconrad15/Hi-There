@@ -6,16 +6,92 @@ namespace HiThere
 {
     public class Character : MonoBehaviour
     {
-        // Start is called before the first frame update
-        void Start()
-        {
+        private int clickCount;
+        private Vector3 startPosition;
+        private Vector3 endPosition;
 
+        private float speed = 1f;
+
+        void OnEnable()
+        {
+            clickCount = 0;
+
+            DeterminePositions();
         }
 
-        // Update is called once per frame
+        /// <summary>
+        /// Determines the start and end positions of the character.
+        /// </summary>
+        private void DeterminePositions()
+        {
+            // First choose start and end positions
+            World.Side startSide = Utility.GetRandomEnum<World.Side>();
+            World.Side endSide = World.GetOppositeSide(startSide);
+
+            startPosition = SideToPos(startSide);
+            endPosition = SideToPos(endSide);
+
+            // Set current posititon to start position
+            transform.position = startPosition;
+
+            Debug.Log("startPos: " + startPosition);
+            Debug.Log("endPos: " + endPosition);
+        }
+
+        /// <summary>
+        /// Returns a random position along the provided side.
+        /// </summary>
+        /// <param name="side"></param>
+        /// <returns></returns>
+        private Vector3 SideToPos(World.Side side)
+        {
+            switch (side)
+            {
+                case World.Side.Up:
+                    return new Vector3(
+                        Random.Range(-World.halfWidth, World.halfWidth), World.halfHeight, 0);
+
+                case World.Side.Down:
+                    return new Vector3(
+                        Random.Range(-World.halfWidth, World.halfWidth), -World.halfHeight, 0);
+
+                case World.Side.Left:
+                    return new Vector3(
+                        -World.halfWidth, Random.Range(-World.halfHeight, World.halfHeight), 0);
+
+                case World.Side.Right:
+                    return new Vector3(
+                        World.halfWidth, Random.Range(-World.halfHeight, World.halfHeight), 0);
+
+                default:
+                    Debug.LogError("Why is there no startSide?");
+                    return new Vector3(0, 0, 0);
+            }
+        }
+
         void Update()
         {
+            Move();
+        }
 
+        /// <summary>
+        /// Move the character.
+        /// </summary>
+        private void Move()
+        {
+            // Get current position
+            Vector3 currentPos = transform.position;
+
+            Vector3 newPos = speed * Time.deltaTime * Vector3.Normalize(endPosition - currentPos);
+
+            // Set new position
+            transform.position = newPos + currentPos;
+        }
+
+        private void OnMouseDown()
+        {
+            clickCount += 1;
+            Debug.Log("Hello. ClickCount = " + clickCount);
         }
     }
 }
