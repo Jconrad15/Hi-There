@@ -43,6 +43,7 @@ namespace HiThere
             Character c = char_go.GetComponent<Character>();
 
             c.cc = this;
+            c.sm = sm;
 
             currentCharacters.Add(char_go);
         }

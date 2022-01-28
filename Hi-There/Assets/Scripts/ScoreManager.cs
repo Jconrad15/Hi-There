@@ -6,16 +6,25 @@ namespace HiThere
 {
     public class ScoreManager : MonoBehaviour
     {
+        private int helloScore;
+        private int grumpyScore;
+
         // Start is called before the first frame update
         void Start()
         {
-
+            helloScore = 0;
+            grumpyScore = 0;
         }
 
-        // Update is called once per frame
-        void Update()
+        public void AddHelloScore(int amount)
         {
-
+            helloScore += amount;
         }
+
+        public void AddGrumpyScore(int amount)
+        {
+            grumpyScore += amount;
+        }
+
     }
 }

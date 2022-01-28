@@ -96,23 +96,35 @@ namespace HiThere
             {
                 RemoveCharacter();
             }
-
         }
 
         private void OnMouseDown()
         {
+            // If click count is still zero, then this is the first time saying hello!
+            // Add score
+            if (clickCount == 0)
+            {
+                sm.AddHelloScore(1);
+            }
+            else
+            {
+                // Add grumpy score since you said hello too many times
+                sm.AddGrumpyScore(clickCount);
+            }
+            
+            // Increase click count
             clickCount += 1;
-            Debug.Log("Hello. ClickCount = " + clickCount);
         }
-
 
         private void RemoveCharacter()
         {
             if (cc == null)
             {
-
+                Destroy(gameObject);
+                Debug.LogError(this.name.ToString() + " had no cc." );
             }
-            cc.RemoveCharacter(transform.gameObject);
+
+            cc.RemoveCharacter(gameObject);
         }
     }
 }
