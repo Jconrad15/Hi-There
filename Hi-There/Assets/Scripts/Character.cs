@@ -16,6 +16,7 @@ namespace HiThere
         private readonly float maxSpeed = 2f;
 
         public CharacterCreator cc;
+        public ScoreManager sm;
 
         void OnEnable()
         {
@@ -107,6 +108,10 @@ namespace HiThere
 
         private void RemoveCharacter()
         {
+            if (cc == null)
+            {
+
+            }
             cc.RemoveCharacter(transform.gameObject);
         }
     }

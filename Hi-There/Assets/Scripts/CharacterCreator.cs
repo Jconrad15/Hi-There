@@ -9,6 +9,9 @@ namespace HiThere
         [SerializeField]
         private GameObject characterPrefab;
 
+        [SerializeField]
+        private ScoreManager sm;
+
         private List<GameObject> currentCharacters;
 
         private float timeCounter;
