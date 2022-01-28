@@ -250,7 +250,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   characterPrefab: {fileID: 7771406605553437857, guid: 5db8aa495110ed54da021071c3ad6aac, type: 3}
-  sm: {fileID: 0}
+  sm: {fileID: 1050851266}
 --- !u!1 &1050851265
 GameObject:
   m_ObjectHideFlags: 0

@@ -19,11 +19,13 @@ namespace HiThere
         public void AddHelloScore(int amount)
         {
             helloScore += amount;
+            Debug.Log("Hello Score: " + helloScore);
         }
 
         public void AddGrumpyScore(int amount)
         {
             grumpyScore += amount;
+            Debug.Log("Grumpy Score: " + grumpyScore);
         }
 
     }
