@@ -10,13 +10,19 @@ namespace HiThere
         private Vector3 startPosition;
         private Vector3 endPosition;
 
-        private float speed = 1f;
+        private float speed;
+
+        private readonly float minSpeed = 0.6f;
+        private readonly float maxSpeed = 2f;
+
+        public CharacterCreator cc;
 
         void OnEnable()
         {
             clickCount = 0;
 
             DeterminePositions();
+            speed = Random.Range(minSpeed, maxSpeed);
         }
 
         /// <summary>
@@ -33,9 +39,6 @@ namespace HiThere
 
             // Set current posititon to start position
             transform.position = startPosition;
-
-            Debug.Log("startPos: " + startPosition);
-            Debug.Log("endPos: " + endPosition);
         }
 
         /// <summary>
@@ -86,12 +89,25 @@ namespace HiThere
 
             // Set new position
             transform.position = newPos + currentPos;
+
+            // If the character reaches the endposition
+            if ((endPosition - currentPos).magnitude < 0.05)
+            {
+                RemoveCharacter();
+            }
+
         }
 
         private void OnMouseDown()
         {
             clickCount += 1;
             Debug.Log("Hello. ClickCount = " + clickCount);
+        }
+
+
+        private void RemoveCharacter()
+        {
+            cc.RemoveCharacter(transform.gameObject);
         }
     }
 }
