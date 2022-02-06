@@ -18,12 +18,16 @@ namespace HiThere
         public CharacterCreator cc;
         public ScoreManager sm;
 
+        private SpriteRenderer spriteRenderer;
+
         void OnEnable()
         {
             clickCount = 0;
 
             DeterminePositions();
             speed = Random.Range(minSpeed, maxSpeed);
+
+            spriteRenderer = gameObject.GetComponent<SpriteRenderer>();
         }
 
         /// <summary>
@@ -114,6 +118,11 @@ namespace HiThere
             
             // Increase click count
             clickCount += 1;
+        }
+
+        public void SetSprite(Sprite s)
+        {
+            spriteRenderer.sprite = s;
         }
 
         private void RemoveCharacter()

@@ -9,6 +9,9 @@ namespace HiThere
         private int helloScore;
         private int grumpyScore;
 
+        [SerializeField]
+        private ScoreDisplay scoreDisplay;
+
         // Start is called before the first frame update
         void Start()
         {
@@ -19,13 +22,13 @@ namespace HiThere
         public void AddHelloScore(int amount)
         {
             helloScore += amount;
-            Debug.Log("Hello Score: " + helloScore);
+            scoreDisplay.SetHelloScore(helloScore);
         }
 
         public void AddGrumpyScore(int amount)
         {
             grumpyScore += amount;
-            Debug.Log("Grumpy Score: " + grumpyScore);
+            scoreDisplay.SetGrumpinessScore(grumpyScore);
         }
 
     }

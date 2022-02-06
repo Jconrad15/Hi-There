@@ -17,12 +17,27 @@ namespace HiThere
         private float timeCounter;
         private float timeThreshold = 2;
 
-        // Start is called before the first frame update
-        void Start()
+        [SerializeField]
+        private Sprite[] allCharacterSprites;
+        private List<Sprite> availableCharacterSprites;
+
+        void Awake()
         {
             currentCharacters = new List<GameObject>();
 
+            LoadSprites();
+
             timeCounter = 0;
+        }
+
+        private void LoadSprites()
+        {
+            // Add all sprites to available character list
+            availableCharacterSprites = new List<Sprite>();
+            for (int i = 0; i < allCharacterSprites.Length; i++)
+            {
+                availableCharacterSprites.Add(allCharacterSprites[i]);
+            }
         }
 
         // Update is called once per frame
@@ -45,7 +60,28 @@ namespace HiThere
             c.cc = this;
             c.sm = sm;
 
+            // Determine and set character sprite
+            c.SetSprite(DetermineSprite());
+
             currentCharacters.Add(char_go);
+        }
+
+        private Sprite DetermineSprite()
+        {
+            if (availableCharacterSprites.Count == 0)
+            {
+                // Reload the character list
+                LoadSprites();
+            }
+
+            // Select random sprite
+            int selected = Random.Range(0, availableCharacterSprites.Count);
+            Sprite s = availableCharacterSprites[selected];
+
+            // Remove selected sprite
+            availableCharacterSprites.RemoveAt(selected);
+
+            return s;
         }
 
         public void RemoveCharacter(GameObject char_go)

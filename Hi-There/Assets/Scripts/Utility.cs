@@ -6,9 +6,9 @@ namespace HiThere
 {
     public class Utility : MonoBehaviour
     {
-        public static Color32 DarkenColor(Color32 edgeMainColor)
+        public static Color32 DarkenColor(Color32 color)
         {
-            Color.RGBToHSV(edgeMainColor, out float h, out float s, out float v);
+            Color.RGBToHSV(color, out float h, out float s, out float v);
 
             v -= 10f / 100f;
             s -= 5f / 100f;
@@ -17,12 +17,22 @@ namespace HiThere
             return newColor;
         }
 
-        public static Color32 LightenColor(Color32 edgeMainColor)
+        public static Color32 LightenColor(Color32 color)
         {
-            Color.RGBToHSV(edgeMainColor, out float h, out float s, out float v);
+            Color.RGBToHSV(color, out float h, out float s, out float v);
 
             v += 10f / 100f;
             s += 5f / 100f;
+            Color32 newColor = Color.HSVToRGB(h, s, v);
+
+            return newColor;
+        }
+
+        public static Color32 HueShift(Color32 color, float amount)
+        {
+            Color.RGBToHSV(color, out float h, out float s, out float v);
+
+            h = (h + amount) % 360f;
             Color32 newColor = Color.HSVToRGB(h, s, v);
 
             return newColor;

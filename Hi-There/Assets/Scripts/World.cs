@@ -6,8 +6,8 @@ namespace HiThere
 {
     public static class World
     {
-        public static float height = 11f;
-        public static float width = 11f;
+        public static float height = 12f;
+        public static float width = 20f;
 
         public static float halfHeight = height / 2;
         public static float halfWidth = width / 2;
