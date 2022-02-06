@@ -10,6 +10,9 @@ namespace HiThere
         private Vector3 startPosition;
         private Vector3 endPosition;
 
+        private Queue<Vector3> wayPoints;
+        private Vector3 currentDestination;
+
         private float speed;
 
         private readonly float minSpeed = 0.6f;
@@ -39,11 +42,27 @@ namespace HiThere
             World.Side startSide = Utility.GetRandomEnum<World.Side>();
             World.Side endSide = World.GetOppositeSide(startSide);
 
-            startPosition = SideToPos(startSide);
-            endPosition = SideToPos(endSide);
+            startPosition = SideToRandomPos(startSide);
+            endPosition = SideToRandomPos(endSide);
+
+            // Determine waypoints
+            wayPoints = new Queue<Vector3>();
+            int points = Random.Range(1, 5);
+            for (int i = 0; i < points; i++)
+            {
+                float x = Random.Range(-World.halfWidth + 1, World.halfWidth - 1);
+                float y = Random.Range(-World.halfHeight + 1, World.halfHeight - 1);
+
+                Vector3 waypoint = new Vector3(x, y, 0);
+
+                wayPoints.Enqueue(waypoint);
+            }
 
             // Set current posititon to start position
             transform.position = startPosition;
+
+            // Set first destination 
+            currentDestination = wayPoints.Dequeue();
         }
 
         /// <summary>
@@ -51,7 +70,7 @@ namespace HiThere
         /// </summary>
         /// <param name="side"></param>
         /// <returns></returns>
-        private Vector3 SideToPos(World.Side side)
+        private Vector3 SideToRandomPos(World.Side side)
         {
             switch (side)
             {
@@ -89,16 +108,29 @@ namespace HiThere
         {
             // Get current position
             Vector3 currentPos = transform.position;
-
-            Vector3 newPos = speed * Time.deltaTime * Vector3.Normalize(endPosition - currentPos);
+            Vector3 newPos = speed * Time.deltaTime * Vector3.Normalize(currentDestination - currentPos);
 
             // Set new position
             transform.position = newPos + currentPos;
 
-            // If the character reaches the endposition
-            if ((endPosition - currentPos).magnitude < 0.05)
+            // Has character reached current destination
+            if ((currentDestination - currentPos).magnitude < 0.05)
             {
-                RemoveCharacter();
+                // Check if this is the end position
+                if (currentDestination == endPosition)
+                {
+                    RemoveCharacter();
+                }
+                else if (wayPoints.Count == 0)
+                {
+                    // No more waypoints, then set destination to end position
+                    currentDestination = endPosition;
+                }
+                else
+                {
+                    // Get next waypoint
+                    currentDestination = wayPoints.Dequeue();
+                }
             }
         }
 

@@ -21,6 +21,8 @@ namespace HiThere
         private Sprite[] allCharacterSprites;
         private List<Sprite> availableCharacterSprites;
 
+        private static readonly int currentCharacterLimit = 10;
+
         void Awake()
         {
             currentCharacters = new List<GameObject>();
@@ -45,7 +47,7 @@ namespace HiThere
         {
             timeCounter += Time.deltaTime;
 
-            if (timeCounter >= timeThreshold)
+            if (timeCounter >= timeThreshold && currentCharacters.Count <= currentCharacterLimit)
             {
                 CreateCharacter();
                 timeCounter -= timeThreshold;
