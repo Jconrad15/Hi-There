@@ -1,0 +1,2520 @@
+fileFormatVersion: 2
+guid: 2ae4b0586e26b004f8dc8b4e77834c7c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -574245620670642723
+    second: 100-line-art-creatures_0
+  - first:
+      213: -5732209742757711232
+    second: 100-line-art-creatures_1
+  - first:
+      213: -965047715318438618
+    second: 100-line-art-creatures_2
+  - first:
+      213: -2807658508680162742
+    second: 100-line-art-creatures_3
+  - first:
+      213: -701964154982567400
+    second: 100-line-art-creatures_4
+  - first:
+      213: 9114435595628716160
+    second: 100-line-art-creatures_5
+  - first:
+      213: 8344151558761783083
+    second: 100-line-art-creatures_6
+  - first:
+      213: 206730671869337638
+    second: 100-line-art-creatures_7
+  - first:
+      213: -4694567862658399229
+    second: 100-line-art-creatures_8
+  - first:
+      213: -6945651444185922641
+    second: 100-line-art-creatures_9
+  - first:
+      213: 2022001816672898598
+    second: 100-line-art-creatures_10
+  - first:
+      213: 8529630228161955346
+    second: 100-line-art-creatures_11
+  - first:
+      213: 517187454240107577
+    second: 100-line-art-creatures_12
+  - first:
+      213: -8029198654153817212
+    second: 100-line-art-creatures_13
+  - first:
+      213: -2447784950108845163
+    second: 100-line-art-creatures_14
+  - first:
+      213: 8799430333305177520
+    second: 100-line-art-creatures_15
+  - first:
+      213: -5084958298246164179
+    second: 100-line-art-creatures_16
+  - first:
+      213: 3419370908586683798
+    second: 100-line-art-creatures_17
+  - first:
+      213: -9179800649449485292
+    second: 100-line-art-creatures_18
+  - first:
+      213: -3329397652337851366
+    second: 100-line-art-creatures_19
+  - first:
+      213: 7824255125076085455
+    second: 100-line-art-creatures_20
+  - first:
+      213: -6107782453102704957
+    second: 100-line-art-creatures_21
+  - first:
+      213: -4197628007441300591
+    second: 100-line-art-creatures_22
+  - first:
+      213: -5305195982486379829
+    second: 100-line-art-creatures_23
+  - first:
+      213: -4903968167412367131
+    second: 100-line-art-creatures_24
+  - first:
+      213: 6439035992350823693
+    second: 100-line-art-creatures_25
+  - first:
+      213: -8174575715089568257
+    second: 100-line-art-creatures_26
+  - first:
+      213: 1315965854085601012
+    second: 100-line-art-creatures_27
+  - first:
+      213: -3397521578612458364
+    second: 100-line-art-creatures_28
+  - first:
+      213: -8322022812421800401
+    second: 100-line-art-creatures_29
+  - first:
+      213: -4702987103637018172
+    second: 100-line-art-creatures_30
+  - first:
+      213: -7587989228409362706
+    second: 100-line-art-creatures_31
+  - first:
+      213: -3359853962131842964
+    second: 100-line-art-creatures_32
+  - first:
+      213: -5232852701170463189
+    second: 100-line-art-creatures_33
+  - first:
+      213: 7381956701390447001
+    second: 100-line-art-creatures_34
+  - first:
+      213: -3899238683390581273
+    second: 100-line-art-creatures_35
+  - first:
+      213: 8089797938150605165
+    second: 100-line-art-creatures_36
+  - first:
+      213: -7395179401001154856
+    second: 100-line-art-creatures_37
+  - first:
+      213: -7998645795661997951
+    second: 100-line-art-creatures_38
+  - first:
+      213: 744267204497580548
+    second: 100-line-art-creatures_39
+  - first:
+      213: -2773991288702600665
+    second: 100-line-art-creatures_40
+  - first:
+      213: -5708446347737079253
+    second: 100-line-art-creatures_41
+  - first:
+      213: 7340963872788698065
+    second: 100-line-art-creatures_42
+  - first:
+      213: 2847387264448731036
+    second: 100-line-art-creatures_43
+  - first:
+      213: 4114363750839317735
+    second: 100-line-art-creatures_44
+  - first:
+      213: -5660794241236905536
+    second: 100-line-art-creatures_45
+  - first:
+      213: -6283932747395395116
+    second: 100-line-art-creatures_46
+  - first:
+      213: 4275460549225647108
+    second: 100-line-art-creatures_47
+  - first:
+      213: 8545260296599979279
+    second: 100-line-art-creatures_48
+  - first:
+      213: 948364795611271246
+    second: 100-line-art-creatures_49
+  - first:
+      213: 4044328981228863697
+    second: 100-line-art-creatures_50
+  - first:
+      213: 4552257606834005416
+    second: 100-line-art-creatures_51
+  - first:
+      213: -1678178173053317885
+    second: 100-line-art-creatures_52
+  - first:
+      213: -7566938733162432218
+    second: 100-line-art-creatures_53
+  - first:
+      213: -4558592717636762877
+    second: 100-line-art-creatures_54
+  - first:
+      213: -7034060526462880738
+    second: 100-line-art-creatures_55
+  - first:
+      213: 9012546413068415774
+    second: 100-line-art-creatures_56
+  - first:
+      213: -7756503550733021075
+    second: 100-line-art-creatures_57
+  - first:
+      213: 5484965367211655310
+    second: 100-line-art-creatures_58
+  - first:
+      213: -8895708816708128231
+    second: 100-line-art-creatures_59
+  - first:
+      213: -3601558293656959335
+    second: 100-line-art-creatures_60
+  - first:
+      213: 8867290571775298439
+    second: 100-line-art-creatures_61
+  - first:
+      213: -5200129340527591751
+    second: 100-line-art-creatures_62
+  - first:
+      213: -1626638296182215887
+    second: 100-line-art-creatures_63
+  - first:
+      213: 6219387367006818769
+    second: 100-line-art-creatures_64
+  - first:
+      213: 8866884996162121030
+    second: 100-line-art-creatures_65
+  - first:
+      213: -4691733035807359529
+    second: 100-line-art-creatures_66
+  - first:
+      213: -620353603540934146
+    second: 100-line-art-creatures_67
+  - first:
+      213: 8869486924293456196
+    second: 100-line-art-creatures_68
+  - first:
+      213: -405453866752965861
+    second: 100-line-art-creatures_69
+  - first:
+      213: -2816805440935830909
+    second: 100-line-art-creatures_70
+  - first:
+      213: -3089139296479103528
+    second: 100-line-art-creatures_71
+  - first:
+      213: 3382754135366655495
+    second: 100-line-art-creatures_72
+  - first:
+      213: 5822198925032456423
+    second: 100-line-art-creatures_73
+  - first:
+      213: 7183455690396469574
+    second: 100-line-art-creatures_74
+  - first:
+      213: -7445594544815897432
+    second: 100-line-art-creatures_75
+  - first:
+      213: 1144273599572685950
+    second: 100-line-art-creatures_76
+  - first:
+      213: 5878431074756303759
+    second: 100-line-art-creatures_77
+  - first:
+      213: -7972153072123550761
+    second: 100-line-art-creatures_78
+  - first:
+      213: -8296632869814625318
+    second: 100-line-art-creatures_79
+  - first:
+      213: -4785605370328170919
+    second: 100-line-art-creatures_80
+  - first:
+      213: -4895127814407158855
+    second: 100-line-art-creatures_81
+  - first:
+      213: -3472338430014928713
+    second: 100-line-art-creatures_82
+  - first:
+      213: -3526476878098448041
+    second: 100-line-art-creatures_83
+  - first:
+      213: -8457184140802705134
+    second: 100-line-art-creatures_84
+  - first:
+      213: -7649051228968206030
+    second: 100-line-art-creatures_85
+  - first:
+      213: 5633639858151573350
+    second: 100-line-art-creatures_86
+  - first:
+      213: 586062482953838921
+    second: 100-line-art-creatures_87
+  - first:
+      213: 3485983276833407456
+    second: 100-line-art-creatures_88
+  - first:
+      213: 3633306545705779685
+    second: 100-line-art-creatures_89
+  - first:
+      213: -1821324273574321031
+    second: 100-line-art-creatures_90
+  - first:
+      213: 2586238025097266495
+    second: 100-line-art-creatures_91
+  - first:
+      213: -2877211716614679206
+    second: 100-line-art-creatures_92
+  - first:
+      213: -9180856339132308825
+    second: 100-line-art-creatures_93
+  - first:
+      213: -1208358654457721130
+    second: 100-line-art-creatures_94
+  - first:
+      213: -8442143284510137967
+    second: 100-line-art-creatures_95
+  - first:
+      213: 9117578986916136242
+    second: 100-line-art-creatures_96
+  - first:
+      213: 7366639715569255359
+    second: 100-line-art-creatures_97
+  - first:
+      213: 8681357427021264392
+    second: 100-line-art-creatures_98
+  - first:
+      213: -7325966286558059724
+    second: 100-line-art-creatures_99
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 97
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 100-line-art-creatures_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 885
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd54a1686aed708f0800000000000000
+      internalID: -574245620670642723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 885
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082b4e80c991370b0800000000000000
+      internalID: -5732209742757711232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 885
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625642947367b92f0800000000000000
+      internalID: -965047715318438618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_3
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 885
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42148346713909d0800000000000000
+      internalID: -2807658508680162742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_4
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 885
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812f439f15f1246f0800000000000000
+      internalID: -701964154982567400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_5
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 885
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08020a542eafc7e70800000000000000
+      internalID: 9114435595628716160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_6
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 885
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f940c22a16cc370800000000000000
+      internalID: 8344151558761783083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_7
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 885
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62023f463747ed200800000000000000
+      internalID: 206730671869337638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_8
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 885
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304084cd66b89deb0800000000000000
+      internalID: -4694567862658399229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_9
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 885
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa38e97afc61c9f90800000000000000
+      internalID: -6945651444185922641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 789
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e8bf170f79f0c10800000000000000
+      internalID: 2022001816672898598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_11
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 789
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216070720855f5670800000000000000
+      internalID: 8529630228161955346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_12
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 789
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c254cdf3b6d2700800000000000000
+      internalID: 517187454240107577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_13
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 789
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4830e145d5e829090800000000000000
+      internalID: -8029198654153817212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_14
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 790
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b073a8e88b70ed0800000000000000
+      internalID: -2447784950108845163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_15
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 789
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5c37a444bdd1a70800000000000000
+      internalID: 8799430333305177520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_16
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 789
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21dc577e599e69b0800000000000000
+      internalID: -5084958298246164179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_17
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 790
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d2d9989bb047f20800000000000000
+      internalID: 3419370908586683798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_18
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 790
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cc9ac22fbca9080800000000000000
+      internalID: -9179800649449485292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_19
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 789
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a140260a97a9bc1d0800000000000000
+      internalID: -3329397652337851366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_20
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 693
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca8032e496559c60800000000000000
+      internalID: 7824255125076085455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_21
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 693
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c60375283ccc3ba0800000000000000
+      internalID: -6107782453102704957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_22
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 693
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1930b3531970fb5c0800000000000000
+      internalID: -4197628007441300591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_23
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 693
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2e110bc582066b0800000000000000
+      internalID: -5305195982486379829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_24
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 693
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0009f1fea91fbb0800000000000000
+      internalID: -4903968167412367131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_25
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 693
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05960c9e1d0c5950800000000000000
+      internalID: 6439035992350823693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_26
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 693
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd2d88a2b21e8e80800000000000000
+      internalID: -8174575715089568257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_27
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 693
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6d055d8ff334210800000000000000
+      internalID: 1315965854085601012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_28
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 693
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c7416002499d0d0800000000000000
+      internalID: -3397521578612458364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_29
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 693
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2eb6e4185c328c80800000000000000
+      internalID: -8322022812421800401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_30
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 597
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9e8709522abbeb0800000000000000
+      internalID: -4702987103637018172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_31
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 597
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee66b29effb02b690800000000000000
+      internalID: -7587989228409362706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_32
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 597
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6851f96f966f51d0800000000000000
+      internalID: -3359853962131842964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_33
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 597
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e8ac0713c2167b0800000000000000
+      internalID: -5232852701170463189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_34
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 605
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99121b5328af17660800000000000000
+      internalID: 7381956701390447001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_35
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 597
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5ea06931f13e9c0800000000000000
+      internalID: -3899238683390581273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_36
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 597
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d618728fc5cb44070800000000000000
+      internalID: 8089797938150605165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_37
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 597
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d64a01248b0f5990800000000000000
+      internalID: -7395179401001154856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_38
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 597
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1881569070a1ff090800000000000000
+      internalID: -7998645795661997951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_39
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 597
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4022d06441b245a00800000000000000
+      internalID: 744267204497580548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_40
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 500
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a7ad2ce9dc089d0800000000000000
+      internalID: -2773991288702600665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_41
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 500
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2261c79a4687c0b0800000000000000
+      internalID: -5708446347737079253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_42
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 500
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3db8a8fb750e560800000000000000
+      internalID: 7340963872788698065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_43
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 500
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97107381a3f38720800000000000000
+      internalID: 2847387264448731036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_44
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 500
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e475855808291930800000000000000
+      internalID: 4114363750839317735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_45
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 500
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c15f7831a1d071b0800000000000000
+      internalID: -5660794241236905536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_46
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 500
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d19d0fb57cfac8a0800000000000000
+      internalID: -6283932747395395116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_47
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 500
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c8ac797bc755b30800000000000000
+      internalID: 4275460549225647108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_48
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 500
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05471c07fcd69670800000000000000
+      internalID: 8545260296599979279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_49
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 500
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4055e7c1c4492d00800000000000000
+      internalID: 948364795611271246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_50
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 404
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0c6f8d7c7502830800000000000000
+      internalID: 4044328981228863697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_51
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 404
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5296dac2edc2f30800000000000000
+      internalID: 4552257606834005416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_52
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 404
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30dc75dc7d9e5b8e0800000000000000
+      internalID: -1678178173053317885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_53
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 404
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62975b44055dcf690800000000000000
+      internalID: -7566938733162432218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_54
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 404
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30304956310acb0c0800000000000000
+      internalID: -4558592717636762877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_55
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 404
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14359f183ff16e90800000000000000
+      internalID: -7034060526462880738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_56
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 404
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13f9a0563ff21d70800000000000000
+      internalID: 9012546413068415774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_57
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 404
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d609087cd1d5b5490800000000000000
+      internalID: -7756503550733021075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_58
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 404
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8088fdd0f28e1c40800000000000000
+      internalID: 5484965367211655310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_59
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 404
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9123dc276f71c8480800000000000000
+      internalID: -8895708816708128231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_60
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 308
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99607b450d1b40ec0800000000000000
+      internalID: -3601558293656959335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_61
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 308
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b46da4bc1fe0b70800000000000000
+      internalID: 8867290571775298439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_62
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 307
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be34cf8aed65d7b0800000000000000
+      internalID: -5200129340527591751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_63
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 308
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b230286150d69e0800000000000000
+      internalID: -1626638296182215887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_64
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 307
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d15efacbd3bf4650800000000000000
+      internalID: 6219387367006818769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_65
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 308
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64deb7cdce08d0b70800000000000000
+      internalID: 8866884996162121030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_66
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 308
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddbcbb69ad93eeb0800000000000000
+      internalID: -4691733035807359529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_67
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 308
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef12fc13faf0467f0800000000000000
+      internalID: -620353603540934146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_68
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 308
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441cb767d5fb61b70800000000000000
+      internalID: 8869486924293456196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_69
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 308
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13816b3bd98f5af0800000000000000
+      internalID: -405453866752965861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_70
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 212
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ad1a32062b8e8d0800000000000000
+      internalID: -2816805440935830909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_71
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 211
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5b9a34d2c2125d0800000000000000
+      internalID: -3089139296479103528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_72
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 212
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e5309a6f4f1fe20800000000000000
+      internalID: 3382754135366655495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_73
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 212
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e08832331b9cc050800000000000000
+      internalID: 5822198925032456423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_74
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 212
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64907dd04e2c0b360800000000000000
+      internalID: 7183455690396469574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_75
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 212
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a489aeb53feba890800000000000000
+      internalID: -7445594544815897432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_76
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 212
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e743364b6c641ef00800000000000000
+      internalID: 1144273599572685950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_77
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 212
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b977fcae1649150800000000000000
+      internalID: 5878431074756303759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_78
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 212
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d36909e4093d5190800000000000000
+      internalID: -7972153072123550761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_79
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 212
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb9ed2cc507cdc80800000000000000
+      internalID: -8296632869814625318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_80
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 116
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e336a554d169db0800000000000000
+      internalID: -4785605370328170919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_81
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 115
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b380243033011cb0800000000000000
+      internalID: -4895127814407158855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_82
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 115
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8c50b5896cfcfc0800000000000000
+      internalID: -3472338430014928713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_83
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 115
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7514054a6ff6f0fc0800000000000000
+      internalID: -3526476878098448041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_84
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 115
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219336ff4db02aa80800000000000000
+      internalID: -8457184140802705134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_85
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 116
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231c5940f6c19d590800000000000000
+      internalID: -7649051228968206030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_86
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 115
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6674b994a95be2e40800000000000000
+      internalID: 5633639858151573350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_87
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 115
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941a5a029bc122800800000000000000
+      internalID: 586062482953838921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_88
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 115
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e18b9c1253b06030800000000000000
+      internalID: 3485983276833407456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_89
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 116
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e105e0ad091c6230800000000000000
+      internalID: 3633306545705779685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_90
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 19
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9746ec4193b59b6e0800000000000000
+      internalID: -1821324273574321031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_91
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 18
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35c78608c924e320800000000000000
+      internalID: 2586238025097266495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_92
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 19
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55179710371218d0800000000000000
+      internalID: -2877211716614679206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_93
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 19
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a220244dcb079080800000000000000
+      internalID: -9180856339132308825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_94
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 19
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de47c7b43c0b3fe0800000000000000
+      internalID: -1208358654457721130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_95
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 19
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191e2df396b77da80800000000000000
+      internalID: -8442143284510137967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_96
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 19
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235c3b618c5288e70800000000000000
+      internalID: 9117578986916136242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_97
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 19
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb34aca8acf8b3660800000000000000
+      internalID: 7366639715569255359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_98
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 19
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8063dc585906a7870800000000000000
+      internalID: 8681357427021264392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100-line-art-creatures_99
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 19
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433283d1a70f45a90800000000000000
+      internalID: -7325966286558059724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

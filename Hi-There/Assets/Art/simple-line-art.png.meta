@@ -1,0 +1,1464 @@
+fileFormatVersion: 2
+guid: 46c8184c910a7e1418041e6e479251ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2719011583601988609
+    second: simple-line-art_0
+  - first:
+      213: 8394266734663259465
+    second: simple-line-art_1
+  - first:
+      213: -5137516164372329025
+    second: simple-line-art_2
+  - first:
+      213: 2088269251590397447
+    second: simple-line-art_3
+  - first:
+      213: -3594336523169427415
+    second: simple-line-art_4
+  - first:
+      213: 8280205966865162517
+    second: simple-line-art_5
+  - first:
+      213: -610789512467429852
+    second: simple-line-art_6
+  - first:
+      213: -3515612701857708363
+    second: simple-line-art_7
+  - first:
+      213: -1570813126351903845
+    second: simple-line-art_8
+  - first:
+      213: -5485636736435951544
+    second: simple-line-art_9
+  - first:
+      213: -4402320881941878157
+    second: simple-line-art_10
+  - first:
+      213: 3618602391607931633
+    second: simple-line-art_11
+  - first:
+      213: 2563498507996005931
+    second: simple-line-art_12
+  - first:
+      213: 871577488298944542
+    second: simple-line-art_13
+  - first:
+      213: -8351628713051052002
+    second: simple-line-art_14
+  - first:
+      213: 2914012477826164529
+    second: simple-line-art_15
+  - first:
+      213: -1155959430961178316
+    second: simple-line-art_16
+  - first:
+      213: -605001139032650701
+    second: simple-line-art_17
+  - first:
+      213: 695862972085640222
+    second: simple-line-art_18
+  - first:
+      213: 4308136586582711020
+    second: simple-line-art_19
+  - first:
+      213: -1743094361219758291
+    second: simple-line-art_20
+  - first:
+      213: -6188313189115359268
+    second: simple-line-art_21
+  - first:
+      213: -2223526395724886078
+    second: simple-line-art_22
+  - first:
+      213: 2276733690257703304
+    second: simple-line-art_23
+  - first:
+      213: -4194458532744845533
+    second: simple-line-art_24
+  - first:
+      213: -7649773385308921591
+    second: simple-line-art_25
+  - first:
+      213: 6883733479456685987
+    second: simple-line-art_26
+  - first:
+      213: 1193427534501044967
+    second: simple-line-art_27
+  - first:
+      213: 4563530108062822189
+    second: simple-line-art_28
+  - first:
+      213: -6332435297250559169
+    second: simple-line-art_29
+  - first:
+      213: 4152794746957995335
+    second: simple-line-art_30
+  - first:
+      213: 1885096158023406749
+    second: simple-line-art_31
+  - first:
+      213: -7836297544863610820
+    second: simple-line-art_32
+  - first:
+      213: 1161927844024101865
+    second: simple-line-art_33
+  - first:
+      213: -798920731027124885
+    second: simple-line-art_34
+  - first:
+      213: -1409636029790919992
+    second: simple-line-art_35
+  - first:
+      213: 6639551567361199100
+    second: simple-line-art_36
+  - first:
+      213: -7653805137178596083
+    second: simple-line-art_37
+  - first:
+      213: 6631604265136662978
+    second: simple-line-art_38
+  - first:
+      213: -7370179961345329615
+    second: simple-line-art_39
+  - first:
+      213: 8308907642698156002
+    second: simple-line-art_40
+  - first:
+      213: 961641145700247450
+    second: simple-line-art_41
+  - first:
+      213: -8593348565441982183
+    second: simple-line-art_42
+  - first:
+      213: -7664026093131258776
+    second: simple-line-art_43
+  - first:
+      213: -3057352590400437904
+    second: simple-line-art_44
+  - first:
+      213: 1184840881162883398
+    second: simple-line-art_45
+  - first:
+      213: -1376867171616297594
+    second: simple-line-art_46
+  - first:
+      213: -3070379357950549780
+    second: simple-line-art_47
+  - first:
+      213: -5376383063956305354
+    second: simple-line-art_48
+  - first:
+      213: 3850709647234501611
+    second: simple-line-art_49
+  - first:
+      213: 2065490703980044794
+    second: simple-line-art_50
+  - first:
+      213: 6123166958116944789
+    second: simple-line-art_51
+  - first:
+      213: 29543088428732704
+    second: simple-line-art_52
+  - first:
+      213: -6636229800307516274
+    second: simple-line-art_53
+  - first:
+      213: 5036739887642542280
+    second: simple-line-art_54
+  - first:
+      213: -8092978764534797896
+    second: simple-line-art_55
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 126
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: simple-line-art_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 779
+        width: 87
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104d4cc11aedbb520800000000000000
+      internalID: 2719011583601988609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 800
+        width: 97
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9455b75de1d6e7470800000000000000
+      internalID: 8394266734663259465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_2
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 787
+        width: 82
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd82caa440e3b8b0800000000000000
+      internalID: -5137516164372329025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_3
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 781
+        width: 72
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e9a68f1d50bfc10800000000000000
+      internalID: 2088269251590397447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_4
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 779
+        width: 68
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920164dc9f95e1ec0800000000000000
+      internalID: -3594336523169427415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_5
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 781
+        width: 84
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511611ad47339e270800000000000000
+      internalID: 8280205966865162517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_6
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 789
+        width: 105
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42648dcac2a0687f0800000000000000
+      internalID: -610789512467429852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 674
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b68be9cfd8063fc0800000000000000
+      internalID: -3515612701857708363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_8
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 673
+        width: 65
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93264bb8c9533ae0800000000000000
+      internalID: -1570813126351903845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_9
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 676
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848e6edc37a1fd3b0800000000000000
+      internalID: -5485636736435951544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_10
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 670
+        width: 44
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ae19c7b70d7e2c0800000000000000
+      internalID: -4402320881941878157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_11
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 671
+        width: 100
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f27b27f3bbd73230800000000000000
+      internalID: 3618602391607931633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_12
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 682
+        width: 75
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26885f9f40639320800000000000000
+      internalID: 2563498507996005931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_13
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 682
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1829489b17781c00800000000000000
+      internalID: 871577488298944542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_14
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 547
+        width: 85
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18a3ae2fed091c80800000000000000
+      internalID: -8351628713051052002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_15
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 554
+        width: 102
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13762e3d8e6a07820800000000000000
+      internalID: 2914012477826164529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_16
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 559
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439dbc6a50535ffe0800000000000000
+      internalID: -1155959430961178316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 546
+        width: 88
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c80436baa9a97f0800000000000000
+      internalID: -605001139032650701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_18
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 547
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c138fafa338a900800000000000000
+      internalID: 695862972085640222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_19
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 550
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea5027666399cb30800000000000000
+      internalID: 4308136586582711020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_20
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 540
+        width: 87
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27828de9e84fc7e0800000000000000
+      internalID: -1743094361219758291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_21
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 429
+        width: 99
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf0aeb01f1be1aa0800000000000000
+      internalID: -6188313189115359268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_22
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 433
+        width: 71
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf0d1a16827421e0800000000000000
+      internalID: -2223526395724886078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_23
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 429
+        width: 87
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88189f78a35989f10800000000000000
+      internalID: 2276733690257703304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_24
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 420
+        width: 88
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32723aa003a4ac5c0800000000000000
+      internalID: -4194458532744845533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_25
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 423
+        width: 63
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901ac64e2ab86d590800000000000000
+      internalID: -7649773385308921591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_26
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 430
+        width: 90
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afba73c02fe78f50800000000000000
+      internalID: 6883733479456685987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_27
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 442
+        width: 123
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2ea130508ef8010800000000000000
+      internalID: 1193427534501044967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_28
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 322
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f62e4647ae45f30800000000000000
+      internalID: 4563530108062822189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_29
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 322
+        width: 78
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b3c38d5abae18a0800000000000000
+      internalID: -6332435297250559169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_30
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 327
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d1a85e1d0b1a930800000000000000
+      internalID: 4152794746957995335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_31
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 317
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d945072d7f4392a10800000000000000
+      internalID: 1885096158023406749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_32
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 328
+        width: 76
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c388324c6e0ef3390800000000000000
+      internalID: -7836297544863610820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_33
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 322
+        width: 71
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb21bdc73fff1010800000000000000
+      internalID: 1161927844024101865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_34
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 328
+        width: 105
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6dce67f3d9a9e4f0800000000000000
+      internalID: -798920731027124885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_35
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 227
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c268bddf77ff6ce0800000000000000
+      internalID: -1409636029790919992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_36
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 211
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbc37009fc642c50800000000000000
+      internalID: 6639551567361199100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_37
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 224
+        width: 104
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0de86287c838c590800000000000000
+      internalID: -7653805137178596083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_38
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 224
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9af6281f0380c50800000000000000
+      internalID: 6631604265136662978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_39
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 214
+        width: 64
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1363f41cf5cd7b990800000000000000
+      internalID: -7370179961345329615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_40
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 212
+        width: 72
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e74d828a7b2f4370800000000000000
+      internalID: 8308907642698156002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_41
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 212
+        width: 97
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97ecdae68f685d00800000000000000
+      internalID: 961641145700247450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_42
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 116
+        width: 89
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911d7bd520b4eb880800000000000000
+      internalID: -8593348565441982183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_43
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 120
+        width: 87
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8642691cfd8e3a590800000000000000
+      internalID: -7664026093131258776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_44
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 113
+        width: 101
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071cf00840a1295d0800000000000000
+      internalID: -3057352590400437904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_45
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 95
+        width: 70
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641131df086617010800000000000000
+      internalID: 1184840881162883398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_46
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 117
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68de9e43a9264ece0800000000000000
+      internalID: -1376867171616297594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_47
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 123
+        width: 93
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce06aa3dd32d365d0800000000000000
+      internalID: -3070379357950549780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_48
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 110
+        width: 57
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a4570b6104365b0800000000000000
+      internalID: -5376383063956305354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_49
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 7
+        width: 76
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb0590b508707530800000000000000
+      internalID: 3850709647234501611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_50
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 10
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af12a911ad81aac10800000000000000
+      internalID: 2065490703980044794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_51
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 6
+        width: 77
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b38fe08ebd9f450800000000000000
+      internalID: 6123166958116944789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_52
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 13
+        width: 95
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021dc5b4845f86000800000000000000
+      internalID: 29543088428732704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_53
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 9
+        width: 90
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c1fc8282067e3a0800000000000000
+      internalID: -6636229800307516274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_54
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 5
+        width: 76
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c089f4fd3816e540800000000000000
+      internalID: 5036739887642542280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple-line-art_55
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 9
+        width: 91
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9af1d21b6ffaf80800000000000000
+      internalID: -8092978764534797896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
