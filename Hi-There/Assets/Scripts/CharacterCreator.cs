@@ -12,6 +12,9 @@ namespace HiThere
         [SerializeField]
         private ScoreManager sm;
 
+        [SerializeField]
+        private ReactionManager rm;
+
         private List<GameObject> currentCharacters;
 
         private float timeCounter;
