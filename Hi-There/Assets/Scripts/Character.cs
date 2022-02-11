@@ -1,9 +1,13 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Random = UnityEngine.Random;
 
 namespace HiThere
 {
+    public enum CharacterClickResult { HELLO, GRUMPY };
+
     public class Character : MonoBehaviour
     {
         private int clickCount;
@@ -19,9 +23,10 @@ namespace HiThere
         private readonly float maxSpeed = 2f;
 
         public CharacterCreator cc;
-        public ScoreManager sm;
 
         private SpriteRenderer spriteRenderer;
+
+        private Action<CharacterClickResult, int, Vector2> cbCharacterClicked;
 
         void OnEnable()
         {
@@ -31,6 +36,22 @@ namespace HiThere
             speed = Random.Range(minSpeed, maxSpeed);
 
             spriteRenderer = gameObject.GetComponent<SpriteRenderer>();
+        }
+
+        public void SetCharacterData(
+            CharacterCreator characterCreator,
+            Action<CharacterClickResult, int, Vector2> scoreCallback,
+            Action<CharacterClickResult, int, Vector2> reactionCallback,
+            Sprite s)
+        {
+            cc = characterCreator;
+
+            // Register callbacks for the character
+            RegisterOnClick(scoreCallback);
+            RegisterOnClick(reactionCallback);
+
+            // Determine and set character sprite
+            SetSprite(s);
         }
 
         /// <summary>
@@ -140,19 +161,18 @@ namespace HiThere
             // Add score
             if (clickCount == 0)
             {
-                sm.AddHelloScore(1);
+                cbCharacterClicked?.Invoke(CharacterClickResult.HELLO, 1, gameObject.transform.position);
             }
             else
             {
                 // Add grumpy score since you said hello too many times
-                sm.AddGrumpyScore(clickCount);
+                cbCharacterClicked?.Invoke(CharacterClickResult.GRUMPY, clickCount, gameObject.transform.position);
             }
-            
             // Increase click count
             clickCount += 1;
         }
 
-        public void SetSprite(Sprite s)
+        private void SetSprite(Sprite s)
         {
             spriteRenderer.sprite = s;
             spriteRenderer.color = Utility.RandomColor();
@@ -163,10 +183,22 @@ namespace HiThere
             if (cc == null)
             {
                 Destroy(gameObject);
-                Debug.LogError(this.name.ToString() + " had no cc." );
+                Debug.LogError(name.ToString() + " had no cc.");
+                return;
             }
 
             cc.RemoveCharacter(gameObject);
         }
+
+        public void RegisterOnClick(Action<CharacterClickResult, int, Vector2> callbackFunc)
+        {
+            cbCharacterClicked += callbackFunc;
+        }
+
+        public void UnregisterOnClick(Action<CharacterClickResult, int, Vector2> callbackFunc)
+        {
+            cbCharacterClicked -= callbackFunc;
+        }
+
     }
 }

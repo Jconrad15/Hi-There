@@ -19,13 +19,25 @@ namespace HiThere
             grumpyScore = 0;
         }
 
-        public void AddHelloScore(int amount)
+        public void AddScore(CharacterClickResult ccr, int amount, Vector2 location)
+        {
+            if (ccr == CharacterClickResult.HELLO)
+            {
+                AddHelloScore(amount);
+            }
+            else
+            {
+                AddGrumpyScore(amount);
+            }
+        }
+
+        private void AddHelloScore(int amount)
         {
             helloScore += amount;
             scoreDisplay.SetHelloScore(helloScore);
         }
 
-        public void AddGrumpyScore(int amount)
+        private void AddGrumpyScore(int amount)
         {
             grumpyScore += amount;
             scoreDisplay.SetGrumpinessScore(grumpyScore);

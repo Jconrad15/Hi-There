@@ -62,11 +62,8 @@ namespace HiThere
             GameObject char_go = Instantiate(characterPrefab, transform);
             Character c = char_go.GetComponent<Character>();
 
-            c.cc = this;
-            c.sm = sm;
-
-            // Determine and set character sprite
-            c.SetSprite(DetermineSprite());
+            Sprite s = DetermineSprite();
+            c.SetCharacterData(this, sm.AddScore, rm.CreateReaction, s);
 
             currentCharacters.Add(char_go);
         }
