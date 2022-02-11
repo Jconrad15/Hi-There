@@ -1111,6 +1111,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   reactionPrefab: {fileID: 6138625629397974560, guid: a2b4bc7123d0d4548bc64edca3eef1a5, type: 3}
+  helloSprite: {fileID: 21300000, guid: efe8fa66685a13b4dac611821b957903, type: 3}
+  grumpySprite: {fileID: 21300000, guid: 0ba3ecbd831c877479074ef1e44835d2, type: 3}
 --- !u!1 &2072074811
 GameObject:
   m_ObjectHideFlags: 0
