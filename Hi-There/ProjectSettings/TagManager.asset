@@ -44,3 +44,6 @@ TagManager:
   - name: Characters
     uniqueID: 2672168503
     locked: 0
+  - name: Reactions
+    uniqueID: 755407357
+    locked: 0

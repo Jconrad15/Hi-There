@@ -17,10 +17,26 @@ namespace HiThere
 
         public void CreateReaction(CharacterClickResult ccr, int amount, Vector2 location)
         {
-            GameObject reaction_go = Instantiate(reactionPrefab, transform);
-            Reaction r = reaction_go.GetComponent<Reaction>();
+            Vector2 placementLocation = location;
 
-            r.SetStartData(location, GetReactionSprite(ccr));
+            // Create number of reactions for amount
+            for (int i = 0; i < amount; i++)
+            {
+                GameObject reaction_go = Instantiate(reactionPrefab, transform);
+                Reaction r = reaction_go.GetComponent<Reaction>();
+
+                r.SetStartData(placementLocation, GetReactionSprite(ccr));
+
+                // Determine next placement location
+                placementLocation = DetermineNextPos(amount, placementLocation);
+            }
+        }
+
+        private Vector2 DetermineNextPos(int amount, Vector2 placementLocation)
+        {
+            // TODO
+
+            return placementLocation;
         }
 
         private Sprite GetReactionSprite(CharacterClickResult ccr)
