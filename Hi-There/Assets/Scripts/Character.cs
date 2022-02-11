@@ -155,6 +155,7 @@ namespace HiThere
         public void SetSprite(Sprite s)
         {
             spriteRenderer.sprite = s;
+            spriteRenderer.color = Utility.RandomColor();
         }
 
         private void RemoveCharacter()
