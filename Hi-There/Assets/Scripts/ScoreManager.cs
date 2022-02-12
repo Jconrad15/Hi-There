@@ -15,7 +15,7 @@ namespace HiThere
         [SerializeField]
         private ScoreDisplay scoreDisplay;
 
-        private readonly int winCondition = 10;
+        private readonly int winCondition = 20;
         private readonly int loseCondition = 20;
 
         private Action<EndCondition> cbEndGame;
