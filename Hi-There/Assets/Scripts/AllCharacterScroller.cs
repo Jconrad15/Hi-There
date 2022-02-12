@@ -11,7 +11,8 @@ namespace HiThere
         private RectTransform rectTransform;
 
         private float startY;
-        private float speed = 50f;
+        private readonly float scrollSpeed = 50f;
+        private readonly float colorSpeed = 0.8f;
 
         void OnEnable()
         {
@@ -25,8 +26,17 @@ namespace HiThere
         // Update is called once per frame
         void Update()
         {
+            Move();
+            ChangeColor();
+        }
+
+        /// <summary>
+        ///  Moves the character sheet down across the screen 
+        /// </summary>
+        private void Move()
+        {
             Vector2 position = rectTransform.anchoredPosition;
-            position.y -= speed * Time.deltaTime;
+            position.y -= scrollSpeed * Time.deltaTime;
 
             rectTransform.anchoredPosition = position;
 
@@ -36,7 +46,15 @@ namespace HiThere
                 position.y = startY;
                 rectTransform.anchoredPosition = position;
             }
+        }
 
+        private void ChangeColor()
+        {
+            Color32 currentColor = image.color;
+
+            currentColor = Utility.HueShift(currentColor, colorSpeed * Time.deltaTime);
+
+            image.color = currentColor;
         }
     }
 }
