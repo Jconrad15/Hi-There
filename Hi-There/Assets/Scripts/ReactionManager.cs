@@ -37,7 +37,6 @@ namespace HiThere
         private Vector2 DetermineNextPos(int amount, int k, Vector2 placementLocation)
         {
             Vector2 center = placementLocation;
-            //center.y -= 0.5f;
 
             float angle = (360f / amount) * k;
             float rad = angle * Mathf.PI / 180;
