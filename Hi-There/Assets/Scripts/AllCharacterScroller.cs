@@ -20,7 +20,6 @@ namespace HiThere
             rectTransform = gameObject.GetComponent<RectTransform>();
 
             startY = rectTransform.anchoredPosition.y;
-            Debug.Log(startY);
         }
 
         // Update is called once per frame
