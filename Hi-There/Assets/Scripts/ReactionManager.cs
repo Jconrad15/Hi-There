@@ -15,6 +15,8 @@ namespace HiThere
         [SerializeField]
         private Sprite grumpySprite;
 
+        private float radius = 0.5f;
+        
         public void CreateReaction(CharacterClickResult ccr, int amount, Vector2 location)
         {
             Vector2 placementLocation = location;
@@ -28,15 +30,21 @@ namespace HiThere
                 r.SetStartData(placementLocation, GetReactionSprite(ccr));
 
                 // Determine next placement location
-                placementLocation = DetermineNextPos(amount, placementLocation);
+                placementLocation = DetermineNextPos(amount, i, placementLocation);
             }
         }
 
-        private Vector2 DetermineNextPos(int amount, Vector2 placementLocation)
+        private Vector2 DetermineNextPos(int amount, int k, Vector2 placementLocation)
         {
-            // TODO
+            Vector2 center = placementLocation;
+            //center.y -= 0.5f;
 
-            return placementLocation;
+            float angle = (360f / amount) * k;
+            float rad = angle * Mathf.PI / 180;
+            float xk = center.x + (radius * Mathf.Cos(rad));
+            float yk = center.y + (radius * Mathf.Sin(rad));
+
+            return new Vector2(xk, yk);
         }
 
         private Sprite GetReactionSprite(CharacterClickResult ccr)
