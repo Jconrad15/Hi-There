@@ -18,7 +18,7 @@ namespace HiThere
         private List<GameObject> currentCharacters;
 
         private float timeCounter;
-        private float timeThreshold = 2;
+        private float timeThreshold = 2f;
 
         [SerializeField]
         private Sprite[] allCharacterSprites;
@@ -33,6 +33,7 @@ namespace HiThere
             LoadSprites();
 
             timeCounter = 0;
+
         }
 
         private void LoadSprites()
