@@ -38,19 +38,9 @@ namespace HiThere
             spriteRenderer = gameObject.GetComponent<SpriteRenderer>();
         }
 
-        public void SetCharacterData(
-            CharacterCreator characterCreator,
-            Action<CharacterClickResult, int, Vector2> scoreCallback,
-            Action<CharacterClickResult, int, Vector2> reactionCallback,
-            Sprite s)
+        public void SetCharacterData(CharacterCreator characterCreator, Sprite s)
         {
             cc = characterCreator;
-
-            // Register callbacks for the character
-            RegisterOnClick(scoreCallback);
-            RegisterOnClick(reactionCallback);
-
-            // Determine and set character sprite
             SetSprite(s);
         }
 

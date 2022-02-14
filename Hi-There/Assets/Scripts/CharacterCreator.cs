@@ -15,6 +15,9 @@ namespace HiThere
         [SerializeField]
         private ReactionManager rm;
 
+        [SerializeField]
+        private SoundController sc;
+
         private List<GameObject> currentCharacters;
 
         private float timeCounter;
@@ -33,7 +36,6 @@ namespace HiThere
             LoadSprites();
 
             timeCounter = 0;
-
         }
 
         private void LoadSprites()
@@ -64,7 +66,12 @@ namespace HiThere
             Character c = char_go.GetComponent<Character>();
 
             Sprite s = DetermineSprite();
-            c.SetCharacterData(this, sm.AddScore, rm.CreateReaction, s);
+            c.SetCharacterData(this, s);
+
+            // Register callbacks for the character
+            c.RegisterOnClick(sm.AddScore);
+            c.RegisterOnClick(rm.CreateReaction);
+            c.RegisterOnClick(sc.OnCharacterClick);
 
             currentCharacters.Add(char_go);
         }
