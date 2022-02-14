@@ -35,7 +35,8 @@ namespace HiThere
 
             LoadSprites();
 
-            timeCounter = 0;
+            // Start at the threshold so that a character is immediately created
+            timeCounter = timeThreshold;
         }
 
         private void LoadSprites()
